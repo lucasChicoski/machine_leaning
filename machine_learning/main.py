@@ -1,4 +1,4 @@
-from core import Classification  # Importação de módulo
+from animals_classification import Classification  # Importação de módulo
 
 # Introdução a classificação usando machine learning
 
